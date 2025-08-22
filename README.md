@@ -1,12 +1,40 @@
-# React + Vite
+# 📂 MiniDocs - Draggable Document Cards [minidocss.onrender.com](https://minidocss.onrender.com)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌟 Project Overview
+MiniDocs is an interactive document card UI built with **React**, featuring draggable animations using **Framer Motion**.  
+Users can move cards freely, and each card displays metadata like description, file size, and action tags.  
+This project focuses on creating a smooth, animated, and modern user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend:** React.js
+- **Animations:** Framer Motion
+- **Styling:** Tailwind CSS
+- **Icons:** React Icons
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Features
+- 🖱️ **Draggable Cards:** Move cards anywhere on the screen using Framer Motion.
+- 🎨 **Modern UI Design:** Rounded cards with a clean, minimal look.
+- 🏷️ **Tag Support:** Dynamic tags for actions like Upload or Download.
+- ⚡ **Smooth Animations:** Hover and drag effects for an engaging experience.
+- 📱 **Responsive Layout:** Works across different screen sizes.
+
+---
+
+## 🚀 Live Demo
+[MiniDocs Live](https://minidocss.onrender.com)
+
+---
+
+## 📧 Contact
+- **Author:** Nekal Singh Salaria  
+- **Email:** [nekalsingh987@gmail.com](mailto:nekalsingh987@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/nekalsingh](https://www.linkedin.com/in/nekalsingh)  
+- **GitHub:** [github.com/nekalsalaria](https://github.com/nekalsalaria)
+
+---
+
+Happy coding! 🚀
